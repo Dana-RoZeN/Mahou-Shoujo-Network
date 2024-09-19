@@ -1,5 +1,3 @@
-# Mahou-Shoujo-Network
-
 # International Mahou Shoujo Network
 
 ## Description
