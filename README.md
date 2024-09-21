@@ -12,7 +12,7 @@ Our magical website offers:
 - 🌈 **International Shoujo Styles**: Shoujo-inspired looks from different cultures, letting your magic shine! 
 
 ## 🚀 Getting Started
-To view our enchanting website, visit: [International Mahou Shoujo Network](link-to-your-website).
+To view our enchanting website, visit: [International Mahou Shoujo Network](<a href="https://dana-rozen.github.io/Mahou-Shoujo-Network/" target="_blank">https://dana-rozen.github.io/Mahou-Shoujo-Network/</a>).
 
 Join us on Discord for even more magical fun: [International Mahou Shoujo Discord](https://discord.gg/JgAKNwpN) 🌙
 
