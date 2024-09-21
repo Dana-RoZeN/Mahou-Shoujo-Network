@@ -10,6 +10,7 @@ Our magical website offers:
 - 🌍 **Romance Across Languages**: Explore lovely words of love from cultures around the world.
 - 🧙 **Tarot Readings**: Unveil mystical insights with beautifully illustrated cards!
 - 🌈 **International Shoujo Styles**: Shoujo-inspired looks from different cultures, letting your magic shine! 
+<li>📜 <strong>Poetry:</strong> Dive into the beauty of words from various cultures. <a href="poetry.html">Explore now</a></li>
 
 ## 🚀 Getting Started
 <p>To view our enchanting website, visit: <a href="https://dana-rozen.github.io/Mahou-Shoujo-Network/" target="_blank">International Mahou Shoujo Network</a></p>
